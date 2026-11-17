@@ -6,3 +6,4 @@ test.py
 cog_template.py
 cogs/music/data/lavalink/logs/
 data/db/db_servers.json
+.vscode

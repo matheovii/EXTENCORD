@@ -3,6 +3,6 @@ gtfs_addon
 music_addon
 bot_core
 test.py
+cog_template.py
+cogs/music/data/lavalink/logs/
 data/db/db_servers.json
-.gitignore
-.gitmodules
